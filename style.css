@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@100&family=Roboto&display=swap');
+
+body {
+    background-color: rgb(225, 232, 10);
+}
+
+.heading {
+    text-align: center;
+}
+
+.retsept-heading {
+    color: rgb(216, 5, 96);
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 5rem;
+}
+
+.foto {
+    text-align: center;
+  
+}
+
+.heading2 {
+text-align: center;
+color: blue;
+}
+
+.ingredients {
+    text-align: center;
+    border: 1px solid rgb(0, 69, 206);
+    width: 20%;
+    margin: 0 auto;
+    color: rgb(0, 0, 150);
+}
+
+.instructions {
+    color: rgb(224, 20, 20);
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(142, 20, 224);
+}
